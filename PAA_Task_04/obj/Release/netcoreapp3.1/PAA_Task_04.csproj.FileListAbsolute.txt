@@ -1,0 +1,13 @@
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.exe
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.deps.json
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.runtimeconfig.json
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.runtimeconfig.dev.json
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.dll
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\bin\Release\netcoreapp3.1\PAA_Task_04.pdb
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.csprojAssemblyReference.cache
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.AssemblyInfoInputs.cache
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.AssemblyInfo.cs
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.dll
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.pdb
+C:\Users\Igorjizn\Desktop\Практика\PAA_Task_04\PAA_Task_04\obj\Release\netcoreapp3.1\PAA_Task_04.genruntimeconfig.cache
